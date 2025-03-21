@@ -9,6 +9,30 @@ void welcomeMessage()
     this_thread::sleep_for(chrono::seconds(3));
 };
 
+void load() {
+    //加入R1功能的位置（You can change if you want）
+};
+
+void showRecord() {
+    //加入R2功能的位置（You can change if you want）    
+};
+
+void addDelete() {
+    //加入R3功能的位置（You can change if you want）    
+};
+
+void edit() {
+    //加入R4功能的位置（You can change if you want）    
+};
+
+void genTranscript() {
+    //加入R5功能的位置（You can change if you want）    
+};
+
+void creditExit() {
+    //加入R6功能的位置（You can change if you want）    
+};
+
 void getOption()
 {
     int option;
